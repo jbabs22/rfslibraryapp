@@ -6,11 +6,11 @@ namespace LibraryBookApp.ViewModels
     {
         [Required]
         [EmailAddress]
-        public string Email { get; set; } = string.Empty; // Default value to avoid nullability warning
+        public string Email { get; set; } = string.Empty; // Default value to fix nullability warning
 
         [Required]
         [DataType(DataType.Password)]
-        public string Password { get; set; } = string.Empty; // Default value to avoid nullability warning
+        public string Password { get; set; } = string.Empty; // Default value to fix nullability warning
 
         [Display(Name = "Remember me?")]
         public bool RememberMe { get; set; }

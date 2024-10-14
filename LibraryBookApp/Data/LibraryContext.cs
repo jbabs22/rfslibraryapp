@@ -17,13 +17,12 @@ namespace LibraryBookApp.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            // Additional configurations if necessary
 
             modelBuilder.Entity<Book>()
                 .HasOne(b => b.Borrower)
                 .WithMany()
                 .HasForeignKey(b => b.BorrowerId)
-                .OnDelete(DeleteBehavior.SetNull); // Ensures BorrowerId can be null
+                .OnDelete(DeleteBehavior.SetNull); // BorrowerId can be null
         }
     }
 }

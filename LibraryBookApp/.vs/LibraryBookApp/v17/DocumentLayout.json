@@ -1,7 +1,77 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C163152-2ECC-4808-A3F1-FA8522C700BA}|..\\LibraryBookApp.Tests\\LibraryBookApp.Tests.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C163152-2ECC-4808-A3F1-FA8522C700BA}|..\\LibraryBookApp.Tests\\LibraryBookApp.Tests.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C163152-2ECC-4808-A3F1-FA8522C700BA}|..\\LibraryBookApp.Tests\\LibraryBookApp.Tests.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp.tests\\accountcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\home\\terms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\home\\terms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\books\\donate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\books\\donate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|c:\\users\\jbabcock\\source\\repos\\rfslibraryapp\\librarybookapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD98133-C150-49D1-A7DD-CBAEECC29641}|LibraryBookApp.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +79,245 @@
       "DocumentGroups": [
         {
           "DockedHeight": 235,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\LibraryBookApp.Tests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "..\\LibraryBookApp.Tests\\HomeControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:13:21.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "..\\LibraryBookApp.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "..\\LibraryBookApp.Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:13:20.255Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp.Tests\\AccountControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\LibraryBookApp.Tests\\AccountControllerTests.cs",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp.Tests\\AccountControllerTests.cs",
+              "RelativeToolTip": "..\\LibraryBookApp.Tests\\AccountControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:12:40.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:12:17.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T14:12:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:12:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:12:08.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:12:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Terms.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Home\\Terms.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Terms.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Home\\Terms.cshtml",
+              "RelativeToolTip": "Views\\Home\\Terms.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:12:00.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:11:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:11:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:11:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Donate.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Books\\Donate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Donate.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Books\\Donate.cshtml",
+              "RelativeToolTip": "Views\\Books\\Donate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:11:30.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:11:27.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:11:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:11:21.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:10:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\jbabcock\\source\\repos\\rfslibraryapp\\LibraryBookApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:07:34.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

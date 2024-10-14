@@ -42,7 +42,7 @@ namespace LibraryBookApp.Tests
 
             // Assert
             var viewResult = Assert.IsType<ViewResult>(result);
-            Assert.Null(viewResult.ViewName); // Ensure it's the default view
+            Assert.Null(viewResult.ViewName); 
         }
 
         [Fact]
@@ -82,7 +82,7 @@ namespace LibraryBookApp.Tests
             // Assert
             var viewResult = Assert.IsType<ViewResult>(result);
             Assert.Equal(loginViewModel, viewResult.Model);
-            Assert.True(controller.ModelState.ContainsKey(string.Empty)); // Check for ModelState error
+            Assert.True(controller.ModelState.ContainsKey(string.Empty));
         }
 
         [Fact]
@@ -99,7 +99,7 @@ namespace LibraryBookApp.Tests
             var redirectResult = Assert.IsType<RedirectToActionResult>(result);
             Assert.Equal("Index", redirectResult.ActionName);
             Assert.Equal("Home", redirectResult.ControllerName);
-            _signInManagerMock.Verify(sm => sm.SignOutAsync(), Times.Once); // Ensure SignOut is called
+            _signInManagerMock.Verify(sm => sm.SignOutAsync(), Times.Once); 
         }
     }
 }

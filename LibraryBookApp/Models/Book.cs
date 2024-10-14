@@ -10,7 +10,7 @@ namespace LibraryBookApp.Models
         public string Author { get; set; } = string.Empty;
         public string Genre { get; set; } = string.Empty;
         public bool IsBorrowed { get; set; }
-        public DateTime? BorrowedDate { get; set; } // Nullable DateTime
+        public DateTime? BorrowedDate { get; set; }
         public string BorrowerId { get; set; } // ID of the user who borrowed the book
         public ApplicationUser Borrower { get; set; }
         public List<Comment> Comments { get; set; } = new List<Comment>();

@@ -63,9 +63,10 @@ namespace LibraryBookApp.Controllers
                     return RedirectToAction("Login", "Account");
                 }
 
-                user.FirstName = model.FirstName ?? user.FirstName; // Ensure non-null assignment
-                user.LastName = model.LastName ?? user.LastName; // Ensure non-null assignment
-                user.Email = model.Email ?? user.Email; // Ensure non-null assignment
+                // Ensure non-null assign
+                user.FirstName = model.FirstName ?? user.FirstName;
+                user.LastName = model.LastName ?? user.LastName; 
+                user.Email = model.Email ?? user.Email; 
 
                 var result = await _userManager.UpdateAsync(user);
                 if (result.Succeeded)

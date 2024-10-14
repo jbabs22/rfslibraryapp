@@ -17,7 +17,7 @@ namespace LibraryBookApp.Tests
 
             // Assert
             var viewResult = Assert.IsType<ViewResult>(result);
-            Assert.Null(viewResult.ViewName); // By default, the view name is null if it’s the default view.
+            Assert.Null(viewResult.ViewName); 
         }
 
         [Fact]
