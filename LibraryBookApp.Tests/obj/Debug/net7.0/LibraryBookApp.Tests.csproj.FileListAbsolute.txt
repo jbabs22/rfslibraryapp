@@ -328,3 +328,6 @@ C:\Users\jbabcock\source\repos\rfslibraryapp\LibraryBookApp.Tests\obj\Debug\net7
 C:\Users\jbabcock\source\repos\rfslibraryapp\LibraryBookApp.Tests\obj\Debug\net7.0\LibraryBookApp.Tests.pdb
 C:\Users\jbabcock\source\repos\rfslibraryapp\LibraryBookApp.Tests\obj\Debug\net7.0\LibraryBookApp.Tests.genruntimeconfig.cache
 C:\Users\jbabcock\source\repos\rfslibraryapp\LibraryBookApp.Tests\obj\Debug\net7.0\ref\LibraryBookApp.Tests.dll
+C:\Users\jbabcock\source\rfslibraryapp\LibraryBookApp.Tests\obj\Debug\net7.0\LibraryBookApp.Tests.dll
+C:\Users\jbabcock\source\rfslibraryapp\LibraryBookApp.Tests\obj\Debug\net7.0\refint\LibraryBookApp.Tests.dll
+C:\Users\jbabcock\source\rfslibraryapp\LibraryBookApp.Tests\obj\Debug\net7.0\LibraryBookApp.Tests.pdb

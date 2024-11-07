@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LibraryBookApp",
+    "\\LibraryBookApp.Tests",
+    "\\LibraryBookApp.Tests\\bin\\Debug",
+    "\\LibraryBookApp.Tests\\obj\\Debug",
+    "\\LibraryBookApp\\bin",
+    "\\LibraryBookApp\\bin\\Debug"
+  ],
+  "SelectedNode": "\\LibraryBookApp\\LibraryBookApp.csproj",
+  "PreviewInSolutionExplorer": false
+}
